@@ -1,0 +1,16 @@
+{
+	"status":"OK",
+	"tag":"payRequest",
+	"commentAllowed":255,
+	"callback":"https://getalby.com/lnurlp/satoshi/callback",
+	"metadata":"[[\"text/identifier\",\"satoshi@getalby.com\"],[\"text/plain\",\"Sats for satoshi\"]]",
+	"minSendable":1000,
+	"maxSendable":10000000000,
+	"payerData":{
+		"name":{"mandatory":false},
+		"email":{"mandatory":false},
+		"pubkey":{"mandatory":false}
+	},
+	"nostrPubkey":"cb78eff00bc2c9da0862e72bbd74784eb85f1b9dbdc38359cc26fc3e28cf64e3",
+	"allowsNostr":true
+}
